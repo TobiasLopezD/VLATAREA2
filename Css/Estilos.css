@@ -1,0 +1,88 @@
+.mifoto {
+    width: 150px;
+    padding: 10px;
+    
+    
+}
+
+.Perfil {
+    background-color: lightgreen;      
+
+}
+
+.estudios{
+
+    background-color: beige;
+
+}
+
+.experencia{
+
+    background-color: gold;
+
+}
+
+
+h2{
+    background-color: aliceblue;
+
+}
+
+nav { 
+
+    background-color: lightblue;
+
+}
+
+
+main  {
+    
+    background-color: grey;
+
+}
+
+.MiPerfil {
+
+    background-color: antiquewhite;
+
+}
+
+.MisEstudios {
+
+    background-color: beige;
+
+}
+
+.ExperienciaProfesional {
+
+    background-color: blanchedalmond;
+
+
+}
+
+.Contacto {
+
+    background-color: coral;
+
+
+}
+
+.Empleados {
+
+    background-color: cornsilk;
+
+}
+
+
+a {
+
+    background-color: whitesmoke;
+
+
+}
+
+footer {
+
+    background-color: aqua;
+
+}
